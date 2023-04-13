@@ -12,7 +12,6 @@
                   cowboy,
                   erlimem,
                   esaml,
-                  oranif,
                   wax,
                   prometheus]},
   {mod, {dderl, []}},
